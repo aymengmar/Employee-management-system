@@ -1,0 +1,95 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+
+
+#lbmessage{
+	-fx-font-size: 15.0px;
+	-fx-background-color: rgb(32,74,135);
+	-fx-text-fill: rgb(255,255,255);
+	-fx-padding:8 8 8 8;
+	-fx-background-radius: 10;
+	-fx-border-color: rgb(32,74,135);
+	-fx-border-radius: 1O;
+}
+
+
+
+
+.label{
+	-fx-font-size: 15.0px;
+	-fx-padding:8 8 8 8;
+	-fx-text-fill: rgb(92,53,102);
+}
+
+.button{
+	-fx-font-size: 15.0px;
+	-fx-background-color: rgb(252,233,79);
+	-fx-padding:8 8 8 8;
+	-fx-background-radius: 5;
+	-fx-border-color: rgb(32,74,135);
+	-fx-border-radius: 5;
+	
+	
+	
+}
+
+#btb1{
+	-fx-font-size: 15.0px;
+	-fx-background-color: rgb(115,210,22);
+	-fx-padding:8 8 8 8;
+	-fx-background-radius: 10;
+	-fx-border-color: rgb(32,74,135);
+	-fx-border-radius: 1O;
+	
+}
+
+#updateEmployee{
+	-fx-text-fill: whithe;
+	-fx-font-size: 15.0px;
+    -fx-background-color: #ff4d4d;
+    -fx-padding:8 8 8 8;
+    -fx-background-radius: 10;
+    -fx-border-color: rgb(32,74,135);
+	-fx-border-radius: 1O;
+	
+	
+}
+
+#tf1{
+	-fx-font-size: 15.0px;
+	-fx-background-color: rgb(32,74,135);
+	-fx-text-fill: rgb(255,255,255);
+	-fx-padding:8 8 8 8;
+	-fx-background-radius: 10;
+	-fx-border-color: rgb(32,74,135);
+	-fx-border-radius: 1O;
+	
+}
+
+#tf2{
+	-fx-font-size: 15.0px;
+	-fx-background-color: rgb(32,74,135);
+	-fx-text-fill: rgb(255,255,255);
+	-fx-padding:8 8 8 8;
+	-fx-background-radius: 10;
+	-fx-border-color: rgb(32,74,135);
+	-fx-border-radius: 1O;
+	
+}
+
+#lb4{
+	-fx-text-fill: rgb(204,0,0);
+	
+}
+
+
+#lb5{
+	-fx-text-fill: rgb(204,0,0);
+	
+}
+
+
+
+
+
+
